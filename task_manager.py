@@ -4,7 +4,7 @@ import datetime
 filename_user = 'user.txt'
 filename_tasks = 'tasks.txt'
 
-# Dictionaries to store user data (username: password) and list to store task data
+Dictionaries to store user data (username: password) and list to store task data
 users = {}
 tasks = []
 
